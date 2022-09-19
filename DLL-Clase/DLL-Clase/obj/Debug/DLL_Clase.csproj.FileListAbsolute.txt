@@ -1,0 +1,6 @@
+C:\Users\Olman\Desktop\Coding\C#\OlmanDavila-Proyecto\DLL-Clase\DLL-Clase\bin\Debug\DLL-Clase.dll
+C:\Users\Olman\Desktop\Coding\C#\OlmanDavila-Proyecto\DLL-Clase\DLL-Clase\bin\Debug\DLL-Clase.pdb
+C:\Users\Olman\Desktop\Coding\C#\OlmanDavila-Proyecto\DLL-Clase\DLL-Clase\obj\Debug\DLL_Clase.csproj.AssemblyReference.cache
+C:\Users\Olman\Desktop\Coding\C#\OlmanDavila-Proyecto\DLL-Clase\DLL-Clase\obj\Debug\DLL_Clase.csproj.CoreCompileInputs.cache
+C:\Users\Olman\Desktop\Coding\C#\OlmanDavila-Proyecto\DLL-Clase\DLL-Clase\obj\Debug\DLL-Clase.dll
+C:\Users\Olman\Desktop\Coding\C#\OlmanDavila-Proyecto\DLL-Clase\DLL-Clase\obj\Debug\DLL-Clase.pdb
